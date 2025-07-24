@@ -127,6 +127,6 @@ A interface é atualizada a cada 15 segundos via `fetch()` e é hospedada localm
 
 ### Demonstração em Vídeo
 
-[Assista ao vídeo de demonstração](/interface/Video%20de%20Overview.mp4)
+[Assista ao vídeo de demonstração](https://youtu.be/cQut4msHBkw)
 
 ---
