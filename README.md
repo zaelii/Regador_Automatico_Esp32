@@ -103,9 +103,13 @@ A interface é atualizada a cada 15 segundos via `fetch()` e é hospedada localm
 ![Interface Web](/interface/Interface%20remoto%202.jpeg)
 
 ### LCD em funcionamento
-![LCD I2C - Alternativo](/fotos_videos/Display%20Lcd.jpeg)
+<img src="fotos_videos/Display Lcd.jpeg" alt="LCD I2C - Alternativo" width="400"/>
 
 ### Protótipo físico
 ![Protótipo](fotos_videos/Todos%20os%20Componentes%20Juntos%202.jpeg)
+
+### Demonstração em Vídeo
+
+[Assista ao vídeo de demonstração](/interface/Video%20de%20Overview.mp4)
 
 ---
