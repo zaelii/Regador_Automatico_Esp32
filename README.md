@@ -100,10 +100,10 @@ A interface é atualizada a cada 15 segundos via `fetch()` e é hospedada localm
 ## 📷 Capturas de Tela
 
 ### Interface Web
-![Interface Web](interface/Interface remoto 2.jpeg)
+![Interface Web](/interface/Interface%20remoto%202.jpeg)
 
 ### LCD em funcionamento
-![LCD I2C - Alternativo](fotos_videos/Display Lcd.jpeg)
+![LCD I2C - Alternativo](/fotos_videos/Display%20Lcd.jpeg)
 
 ### Protótipo físico
 ![Protótipo](fotos_videos/Todos%20os%20Componentes%20Juntos%202.jpeg)
