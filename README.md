@@ -38,10 +38,27 @@ A IA foi treinada com dados reais (`dados.csv`) contendo leituras de umidade, te
 
 ## 🖥️ Como Funciona
 
-- O ESP32 coleta os dados dos sensores.
-- Os dados são exibidos no LCD e enviados via Wi-Fi para uma página web local (servidor HTTP).
-- A IA, em Python, pode ser executada para prever o status da válvula com base em arquivos CSV reais.
-- Os dados também são salvos no cartão SD em formato `.csv`.
+### 🔧 Configuração Inicial
+
+1. Conecte-se a essa rede pelo seu computador ou celular (não é necessário internet).
+2. Acesse `O IP QUE SERÁ FORNECIDO NO DISPLAY` pelo navegador.
+3. Configure o Nome e senha do Wi-Fi da sua casa
+
+---
+
+## 🌐 Conectividade
+
+- 🔌 **Offline por padrão:** O sistema funciona normalmente sem internet, realizando coleta, exibição e registro dos dados localmente.
+
+---
+
+## 📦 Processo de Funcionamento
+
+1. O ESP32 coleta dados dos sensores de umidade do solo e ambiente.
+2. Os dados são exibidos no LCD I2C e registrados no cartão SD em formato `.csv`.
+3. Uma interface web local exibe os dados e gráficos dinâmicos em tempo real.
+4. Scripts Python podem ser executados para prever o status da válvula com base nos dados coletados.
+5. (Opcional) Notificações podem ser enviadas via Telegram, caso configurado.
 
 ---
 
@@ -110,7 +127,6 @@ A interface é atualizada a cada 15 segundos via `fetch()` e é hospedada localm
 
 ### Demonstração em Vídeo
 
-[Assista ao vídeo de demonstração](https://youtu.be/cQut4msHBkw)
-
+[Assista ao vídeo de demonstração](/interface/Video%20de%20Overview.mp4)
 
 ---
