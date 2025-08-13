@@ -130,5 +130,3 @@ A interface é atualizada a cada 15 segundos via `fetch()` e é hospedada localm
 [Assista ao vídeo de demonstração](https://youtu.be/cQut4msHBkw)
 
 ---
-
-Autores: Disraeli Filho, Roberto Filho, Matheus Carneiro
